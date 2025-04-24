@@ -1,59 +1,82 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874"
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
+    "name": "Иван Иванов",
+    "email": "ivan.ivanov@travel.ru",
     "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
+      "name": "ТурЛайн"
     }
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771"
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
+    "name": "Мария Петрова",
+    "email": "maria.petrova@travel.ru",
     "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
+      "name": "РусПутешествия"
     }
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157"
-    },
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
+    "name": "Сергей Сидоров",
+    "email": "sergey.sidorov@travel.ru",
     "company": {
-      "name": "Romaguera-Jacobson",
-      "catchPhrase": "Face to face bifurcated interface",
-      "bs": "e-enable strategic applications"
+      "name": "ГлобалТур"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Анна Кузнецова",
+    "email": "anna.kuznetsova@travel.ru",
+    "company": {
+      "name": "Путешествуй"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Дмитрий Смирнов",
+    "email": "dmitry.smirnov@travel.ru",
+    "company": {
+      "name": "РосТур"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ольга Фёдорова",
+    "email": "olga.fedorova@travel.ru",
+    "company": {
+      "name": "ВокругСвета"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Алексей Крылов",
+    "email": "aleksey.krylov@travel.ru",
+    "company": {
+      "name": "КавказТур"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Елена Морозова",
+    "email": "elena.morozova@travel.ru",
+    "company": {
+      "name": "МореТур"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Николай Васильев",
+    "email": "nikolay.vasiliev@travel.ru",
+    "company": {
+      "name": "ГорныйКлуб"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Татьяна Лебедева",
+    "email": "tatyana.lebedeva@travel.ru",
+    "company": {
+      "name": "ВояжПлюс"
     }
   }
 ]
